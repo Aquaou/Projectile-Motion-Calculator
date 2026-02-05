@@ -27,8 +27,8 @@ Where:
 
 ## How to Run
 ```bash
-javac Window.java
-java Window
+javac Projectile_Motion_Calculator.java
+java Projectile_Motion_Calculator
 ```
 
 ## Usage
